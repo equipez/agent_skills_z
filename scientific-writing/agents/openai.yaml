@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Writing"
+  short_description: "Reader-oriented scientific prose and proofs."
+  default_prompt: "Use $scientific-writing to revise this manuscript while preserving its mathematics, applying the nine proof guidelines, and checking the affected LaTeX layout."

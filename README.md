@@ -22,6 +22,17 @@ root/
 
 ## 🚀 How to Use
 
+### Scientific writing
+
+The [Scientific Writing skill](scientific-writing/README.md) adds reader-oriented
+paper and proof revision, including Zaikun Zhang's nine proof guidelines,
+worked examples, source notes, and optional LaTeX log helpers. Start with
+[its instructions](scientific-writing/SKILL.md), or download the
+[standalone ZIP](packages/scientific-writing.zip).
+
+It complements the existing [TeX Polisher](tex_polisher/polisher.md), which
+focuses on grammar and typesetting conventions.
+
 ### Method 1: The "VS Code Workspace" Workflow (Recommended) ⭐
 This method turns your editor into a powerful, context-aware Agent platform.
 
