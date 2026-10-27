@@ -1,0 +1,54 @@
+{
+  "name": "scientific-writing",
+  "version": "2026-10-27",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "f680e27adbaa54572c96a77b6cfe70f9024eb0113ae175c8b6f7833a1fc6b3cc"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "3d5a4ddce1b75754fa9ba15759efc6fbc3140bd7ad50fc11ec4ff7a51b7e8a69"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "sha256": "9327a6dafcc174c8745e92201fb436000b4d316dac4bd5e2c4d9d35d13c5cf28"
+    },
+    {
+      "path": "references/asd-ste-academic-adaptation.md",
+      "sha256": "425d06b98fc9ccea7b5dfa8d57c2dd61fd43e3addc152e3352cb36b21b44d944"
+    },
+    {
+      "path": "references/book-guidance.md",
+      "sha256": "97689f49731e20977a31aa9c9bc622a63f7d63844e6056fcdec0760f15b05e93"
+    },
+    {
+      "path": "references/latex-layout-qa.md",
+      "sha256": "9ed4cd508484b04b4c873444ee8b6c60ad8e1b3c909d9b789c8f7b3356534b63"
+    },
+    {
+      "path": "references/maintaining.md",
+      "sha256": "49d7c7985ef7631acb748ddaa55caabf787e98958a7a4645a30e4d3a431cd0ec"
+    },
+    {
+      "path": "references/proofs-and-derivations.md",
+      "sha256": "634a0cb1df739f551d7ec5eabc8d13830db185303369d06b110fa395832baf38"
+    },
+    {
+      "path": "references/source-corpus.md",
+      "sha256": "05beaa13b0acd3346ba2cba906a93959d5a5c11c8fe712fa2cd93647ce0ef5b9"
+    },
+    {
+      "path": "references/style-guide.md",
+      "sha256": "ee148027a15cf1bab7e3e291915034a5f987aed2cb05b9f3278ad402fd7d96de"
+    },
+    {
+      "path": "scripts/latex_overfull_report.py",
+      "sha256": "b23267b77928cda8bcddacd2ef0fae507734982447330ba41a6b79ffee8dff02"
+    },
+    {
+      "path": "scripts/latex_vbox_report.py",
+      "sha256": "f379f40246a5369da2bfc6271fead235e91caba26afcb758f96800dc36b03ea3"
+    }
+  ]
+}
